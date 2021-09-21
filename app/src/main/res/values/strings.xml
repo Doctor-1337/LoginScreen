@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="welcome_text1">Welcome,</string>
+    <string name="welcome_text2">Sign in to continue!</string>
+    <string name="email_text">Email ID</string>
+    <string name="pw_text">Password</string>
+    <string name="forgotPw_text">Forgot Password?</string>
+    <string name="login_text">Login</string>
+    <string name="fb_text">Connect with Facebook</string>
+    <string name="newUser_text">I\'m a new user,</string>
+    <string name="signUp_text">Sign Up</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_title">Response</string>
+
+
+
+
+
+
+
+</resources>
